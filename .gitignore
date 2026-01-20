@@ -1,0 +1,16 @@
+# Wolfram / Mathematica temporary & cache files
+*.mx
+*.tmp
+*.bak
+*.~*
+Kernel/
+*.cdf
+*.log
+
+# macOS
+.DS_Store
+
+# Optional: LaTeX aux files (if you ever add source)
+*.aux
+*.out
+*.toc
