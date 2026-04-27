@@ -43,4 +43,4 @@ These results provide a foundation for analyzing more complex filament dynamics 
 
 ## Reference
 
-*Dynamics of a Closed Rod with Twist and Bend in Fluid* — S. Lim et al. (2010)
+*Dynamics of a Closed Rod with Twist and Bend in Fluid* — S. Lim et al. (2008)

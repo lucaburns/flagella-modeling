@@ -1,6 +1,6 @@
 # Force Calculations
 
-We walk through the computation for explicit expressions of force from the flagella to the fluid using equations from *Dynamics of an Open Elastic Rod with Intrinsic Curvature and Twist in a Viscous Fluid* — S. Lim (2010).
+We walk through the computation for explicit expressions of force from the flagella to the fluid using equations from *Dynamics of an Open Elastic Rod with Intrinsic Curvature and Twist in a Viscous Fluid* — S. Lim et al. (2008).
 
 ## 1. Triad for a Circle with Equilibrium Conditions
 
